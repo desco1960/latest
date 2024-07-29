@@ -1,9 +1,5 @@
 import React from 'react'
 import { MdArrowDropDown } from 'react-icons/md'
-import { BiLogIn } from 'react-icons/bi'
-import { BiFace } from 'react-icons/bi'
-import 
-
 
 
 function Navbar() {
